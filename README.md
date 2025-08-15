@@ -59,6 +59,10 @@ The landing page includes well-structured sections for:
 - Practiced crafting **minimal, modern UI components**.
 
 ---
+Email: [harshguptaalwaralwar@gmail.com](mailto:harshguptaalwaralwar@gmail.com)  
+-  Phone: +91 7340229774  
+-  GitHub: [Ravigupta08](https://github.com/Ravigupta08)  
+-  LinkedIn: [ravi-gupta-6a98b9345](https://www.linkedin.com/in/ravi-gupta-6a98b9345)
 
 
 
