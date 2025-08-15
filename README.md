@@ -1,37 +1,64 @@
 # TASK-2
-LANDING PAGE
-Modern Landing Page
-Author: Ravi Gupta
-Domain: Web Development (HTML, CSS)
+#  Modern Landing Page
 
-Project Overview
-The Modern Landing Page is a sleek, responsive web page designed to enhance your online presence.
-It uses clean HTML5 markup, CSS Grid, and Flexbox to provide a modern layout that adapts to any device.
-This page includes sections for Features, About, Testimonials, and Contact.
+### Author: Ravi Gupta  
+**Domain:** Web Development (HTML, CSS)
 
-Objective
-To design and develop a visually appealing and user-friendly landing page that highlights key information
-and ensures an optimal experience for both desktop and mobile users.
+---
 
-Key Activities
-Created a responsive navigation bar with anchor links for smooth scrolling.
-Developed a hero section with a strong heading, subtext, and call-to-action button.
-Built a features section with icons and short descriptions.
-Added an About section to describe the purpose of the page.
-Incorporated a testimonial block for credibility.
-Created a contact section with email and phone links.
-Designed a footer with copyright and social media links.
-Technologies Used
-HTML5 – for semantic structure
-CSS3 – Flexbox & Grid for responsive layouts
-Google Fonts (Poppins) – for modern typography
-Key Insights
-Gained hands-on experience with CSS Grid and Flexbox for layout design.
-Applied mobile-first design principles for better responsiveness.
-Improved understanding of semantic HTML for accessibility and SEO.
-Practiced creating clean, minimal, and professional-looking UI components.
-Contact
-Email: harshguptaalwaralwar@gmail.com
-Phone: +91 7340229774
-GitHub: Ravigupta08
-LinkedIn: ravi-gupta-6a98b9345
+##  Project Overview
+
+The **Modern Landing Page** is a sleek and responsive web page crafted to enhance your digital presence. Designed with clean **HTML5 markup** and styled using **CSS Grid** and **Flexbox**, this layout ensures seamless viewing on all screen sizes.
+
+The landing page includes well-structured sections for:
+- Hero
+- Features
+- About
+- Testimonials
+- Contact
+
+---
+
+##  Objective
+
+- Build a visually appealing and **user-friendly landing page**.
+- Highlight key business or personal information in a clear, organized layout.
+- Ensure optimal performance and accessibility across **desktop** and **mobile** devices.
+
+---
+
+## 🔧 Key Activities
+
+- Developed a **responsive navigation bar** with anchor links and smooth scrolling.
+- Created a compelling **hero section** with a headline, subtext, and call-to-action (CTA) button.
+- Designed a **features section** using icons and concise descriptions.
+- Implemented an **about section** to communicate the purpose of the page.
+- Included a **testimonials block** to build credibility.
+- Added a **contact section** with clickable email and phone links.
+- Built a **footer** with copyright and social media.
+
+---
+
+##  Technologies Used
+
+###  Languages
+- HTML5 – for semantic page structure
+- CSS3 – for layout and styling
+
+###  Tools & Resources
+- **CSS Flexbox & Grid** – for responsive layout
+- **Google Fonts (Poppins)** – for clean, modern typography
+
+---
+
+##  Key Insights
+
+- Strengthened practical knowledge of **CSS Grid** and **Flexbox** layout systems.
+- Applied **mobile-first design principles** to ensure responsiveness.
+- Improved semantic HTML skills for better **accessibility** and **SEO**.
+- Practiced crafting **minimal, modern UI components**.
+
+---
+
+
+
